@@ -1,6 +1,7 @@
 <h1 align="center">Assalamu Alaikum 👋, I'm Mostafa Ahnaf Hossain</h1>
 <h3 align="center">As a passionate web application developer, I craft seamless, user-centric digital experiences. Specializing in scalable solutions, I blend creativity and technical expertise to build intuitive, high-performance web applications that exceed expectations</h3>
-
+<br><br>
+<img align="centre" alt="Coding" width="1200" height="400" src="bannergit.png">
 - 👨‍💻 All of my projects are available at [https://github.com/Ahnaf-221B](https://github.com/Ahnaf-221B)
 
 - 📫 How to reach me **mostafaahnafhossain@gmail.com**
