@@ -5,7 +5,7 @@
 <br>
 - 👨‍💻 All of my projects are available at https://github.com/Ahnaf-221B
 <br><br>
-- 📫 How to reach me mostafaahnafhossain@gmail.com
+- 📫 How to reach me **mostafaahnafhossain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
